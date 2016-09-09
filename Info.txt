@@ -1,3 +1,8 @@
+Zeile 1
 Zeile 2
 Zeile 3
+<<<<<<< HEAD
 Zeile 6 added in Origin
+=======
+Zeile 5 Added in Copy
+>>>>>>> e005d385f0ad97ca08978abb3803159d3dadb52b
